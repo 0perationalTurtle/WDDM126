@@ -1,6 +1,7 @@
-body {
-    background-color: dimgrey;
+body{
+    background-color: white;
 }
+
 h1 {
     color: black;
     font-weight: 20px;
@@ -9,4 +10,10 @@ h1 {
     text-align: center;
     /* This is a single-line comment */
     
+}
+.video {
+    display: block;
+    margin-left: 50%;
+    transform: translate(-50%);
+    border-radius: 5%;
 }
